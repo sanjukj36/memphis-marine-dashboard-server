@@ -11,7 +11,7 @@ Follow these steps to set up and run the server on your local machine:
 1. **Clone the repository:**
 
 
-   git clone https://github.com/your-username/memphis-marine-dashboard-server.git
+   git clone https://github.com/sanjukj36/memphis-marine-dashboard-server.git
    cd memphis-marine-dashboard-server
 
 
