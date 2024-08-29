@@ -1,7 +1,3 @@
-Here's the updated document including the missing code for installing dependencies:
-
----
-
 # Memphis Marine Dashboard Server
 
 This project is the backend server for the Memphis Marine Dashboard application, built with Node.js and Express.
